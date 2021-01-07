@@ -8,4 +8,4 @@ Create and modify your own rainmeter skins in a simple language that's easy to l
 
 Over the last few years, a thriving community has built up around Rainmeter creating beautiful skins and helping each other.
 
-Download official skins at https://rainmeter-skins.com
+Download official rainmeter skins at https://rainmeter-skins.com
